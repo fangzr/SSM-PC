@@ -3,7 +3,7 @@
 This repository bundles the open-source implementation that accompanies the paper
 **"Shared Spatial Memory Through Predictive Coding"**.  The project integrates
 modules for grid-cell representation learning, bird's-eye-view (BEV) prediction,
-and (upcoming) shared spatial memory components.
+and (upcoming) shared spatial memory components. 
 
 ## Paper Overview
 
