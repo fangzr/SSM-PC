@@ -180,7 +180,7 @@ visualization pipeline works out of the box.
 The following modules are pending cleanup and integration.  They are listed here
 per the request so that the GitHub project documents future work clearly.
 
-- [ ] SLAM map reconstruction
+- [ ] Spatial memory reconstruction
 - [ ] HRL-ICM -based maze policies
 - [ ] Information Bottleneck (IB) compression pipeline
 
