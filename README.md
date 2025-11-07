@@ -1,9 +1,9 @@
 # Shared Spatial Memory Through Predictive Coding
 
-This repository provides the **official open-source implementation** of  
+This repository provides the official open-source implementation of  
 **“Shared Spatial Memory Through Predictive Coding” (Fang et al., 2025)**.  
-The framework unifies **grid-cell-like spatial coding**, **predictive BEV reconstruction**,  
-and **communication-efficient shared spatial memory** under a single predictive-coding objective.  
+The framework unifies grid-cell-like spatial coding, predictive BEV reconstruction,  
+and communication-efficient shared spatial memory under a single predictive-coding objective.  
 
 > **Paper:** [https://arxiv.org/abs/2511.04235](https://arxiv.org/abs/2511.04235)  
 > **Project Page:** [http://fangzr.github.io/SSM-PC/index.html](http://fangzr.github.io/SSM-PC/index.html)
